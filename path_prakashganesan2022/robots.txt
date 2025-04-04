@@ -1,6 +1,0 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-
-Sitemap: /prakashganesan2022/sitemap.xml
-Sitemap: /prakashganesan2022/sitemap.rss
